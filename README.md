@@ -4,16 +4,6 @@
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Backend-Python-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Security-AES--256%20%7C%20PBKDF2%20%7C%20HMAC-green?style=flat-square" />
-Expand
-message.txt
-7 KB
-﻿
-# SFP Secure File Program
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Backend-Python-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Security-AES--256%20%7C%20PBKDF2%20%7C%20HMAC-green?style=flat-square" />
 </p>
 
 ---
@@ -203,5 +193,3 @@ This project is intended to protect your data. Passwords cannot be recovered —
 > to avoid problems with paths and access rights. If you do not run it from an editor, the program may not start or may not work correctly!
 
 ---
-message.txt
-7 KB
