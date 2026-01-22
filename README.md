@@ -1,9 +1,203 @@
+Dewxter
+dewxter
+Sharing their screen
+
+Dewxter
+
+ — 6:43 PM
+pip -r
+Лисёнок
+
+ — 6:53 PM
+ate
+Dewxter
+
+ — 7:01 PM
+there
+Dewxter
+
+ — 7:45 PM
+Image
+Dewxter
+
+ — 7:53 PM
+Image
+Лисёнок
+
+ — 7:58 PM
+pair
+pear
+Dewxter
+
+ — 7:58 PM
+vampire
+porridge
+Лисёнок
+
+ — 8:02 PM
+Dewxter
+
+ — 8:03 PM
+Dewxter
+
+ — 8:15 PM
+Image
+Лисёнок
+
+ — 9:10 PM
+я тут
+вернуться быстрее 🥲 
+Dewxter
+
+ — 9:13 PM
+Малыш моя, вернусь постараюсь побыстрее!
+Как твой живот после еды?
+Лисёнок
+
+ — 9:14 PM
+I WAS JUST THINKING ABOUT YOU 
+Лисёнок
+
+ — 9:14 PM
+норм
+Dewxter
+
+ — 9:23 PM
+Чегооо?)
+Лисёнок
+
+ — 9:23 PM
+you messaged me while i was thinking about you
+Dewxter
+
+ — 9:23 PM
+Ооооо
+Симбиоз!!!!
+Лисёнок
+
+ — 9:37 PM
+Image
+Image
+разделённый теперь 
+Dewxter
+
+ — 9:47 PM
+Малыш, ты мой гений маленький!!!!!!!!
+СПАСИБО ТЕБЕ ОГРОМНОЕ
+Я сделаю тебе что угодно в реальной жизни в качестве благодарности
+Лисёнок
+
+ — 9:47 PM
+:]
+Dewxter
+
+ — 9:47 PM
+Всё что скажешь
+Лисёнок
+
+ — 9:47 PM
+hug
+Dewxter
+
+ — 9:48 PM
+Это меньшее что я могу!
+Лисёнок
+
+ — 9:48 PM
+blablabla
+i want hug
+Image
+Dewxter
+
+ — 9:49 PM
+Of course!
+Dewxter
+
+ — 9:50 PM
+УУУУУУУ
+Очень круто!
+🫂 🫂 🫂 🫂 🫂 🫂 🫂
+Лисёнок
+
+ — 9:50 PM
+кстати дешифратор необходимо запускать отдельно
+Dewxter
+
+ — 9:54 PM
+Вооооот. Да!
+Лисёнок
+
+ — 10:01 PM
+start.sh я обновила
+и start.bat для windows
+Image
+Лисёнок
+
+ — 10:09 PM
+i miss you
+Dewxter
+
+ — 10:13 PM
+Да ты моё счастье. Приду - посмотрю!
+Я уже иду
+I’m here already!
+Dewxter
+
+ — 10:13 PM
+5 min!
+Dewxter
+ started a call that lasted 3 minutes. — 10:18 PM
+Лисёнок
+
+ — 10:18 PM
+ЩАС
+Dewxter
+
+ — 10:18 PM
+Лисёнок
+
+ — 10:19 PM
+my mom is upstairs
+Dewxter
+
+ — 10:19 PM
+УУУУУУУУУУУУУУУУУУУУУУУУУУУУУУ
+Тяжёлый случай
+Лисёнок
+ started a call. — 10:23 PM
+Лисёнок
+
+ — 10:27 PM
+Image
+Dewxter
+
+ — 10:34 PM
+швабра
+Лисёнок
+
+ — 10:38 PM
+Attachment file type: unknown
+project.tar.xz
+80.00 KB
+https://github.com/LizzyXR/dlya-vitya
+Лисёнок
+
+ — 10:50 PM
 # SFP Secure File Program
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Frontend-React-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Backend-Tauri%20%7C%20Python%20%7C%20Rust-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Backend-Python-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Security-AES--256%20%7C%20PBKDF2%20%7C%20HMAC-green?style=flat-square" />
+Expand
+message.txt
+7 KB
+﻿
+# SFP Secure File Program
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Backend-Python-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Security-AES--256%20%7C%20PBKDF2%20%7C%20HMAC-green?style=flat-square" />
 </p>
 
@@ -12,13 +206,13 @@
 # 🇷🇺 Русская версия
 
 ##  Описание
-**SFA Secure File Program** — современное кроссплатформенное приложение для безопасного шифрования и дешифрования файлов. Интерфейс — React, ядро — Tauri (Rust) и Python. Всё просто, быстро и безопасно.
+**SFA Secure File Program** — современное кроссплатформенное приложение для безопасного шифрования и дешифрования файлов. Всё просто, быстро и безопасно.
 
 ---
 
 ##  Быстрый старт
 
-1. Установите [Node.js 18+](https://nodejs.org/), [Python 3.8+](https://python.org/) (с галочкой "Add to PATH"), [Rust](https://rustup.rs/)
+1. Установите [Python 3.8+](https://python.org/) (с галочкой "Add to PATH")
 2. `pip install -r requirements.txt`
 3. Windows: `start.bat` | Linux/macOS: `chmod +x start.sh && ./start.sh`
 
@@ -27,11 +221,7 @@
 ##  Ручная установка
 
 ```bash
-cd tauri-react
-npm install
-pip install -r ../requirements.txt
-cargo install tauri-cli
-npm run tauri dev
+pip install -r requirements.txt
 ```
 
 ---
@@ -39,12 +229,8 @@ npm run tauri dev
 ##  Структура проекта
 ```
 SFA_Secure_File_Programm-main/
-├── tauri-react/           # Основная папка приложения
-│   ├── src/              # Исходники React (интерфейс)
-│   ├── src-tauri/        # Ядро Tauri (Rust), конфиги, иконки
-│   ├── python_scripts/   # Скрипты Python для шифрования/дешифрования
-│   ├── package.json      # Node.js зависимости
-│   └── ...
+├── terminal_version/     # Скрипты Python для шифрования/дешифрования
+│   ├── ...
 ├── start.bat             # Быстрый запуск для Windows
 ├── start.sh              # Быстрый запуск для Linux/macOS
 ├── requirements.txt      # Python-зависимости
@@ -84,10 +270,8 @@ SFA_Secure_File_Programm-main/
 ---
 
 ## ❓ FAQ
-- **Node.js не найден:** Установите с https://nodejs.org/ и перезагрузите ПК
 - **Python не найден:** Установите с https://python.org/ ("Add to PATH")
 - **cryptography не установлена:** `pip install cryptography`
-- **Rust не найден:** `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh && cargo install tauri-cli`
 - **Не запускается:** Запустите `start.bat` или `start.sh` — они сами проверят зависимости
 
 ---
@@ -115,13 +299,13 @@ SFA_Secure_File_Programm-main/
 # 🇬🇧 English version
 
 ##  Description
-**SFA Secure File Program** is a modern cross-platform app for secure file encryption and decryption. UI — React, core — Tauri (Rust) & Python. Simple, fast, secure.
+**SFA Secure File Program** is a modern cross-platform app for secure file encryption and decryption. Simple, fast, secure.
 
 ---
 
 ##  Quick Start
 
-1. Install [Node.js 18+](https://nodejs.org/), [Python 3.8+](https://python.org/) (with "Add to PATH"), [Rust](https://rustup.rs/)
+1. Install [Python 3.8+](https://python.org/) (with "Add to PATH")
 2. `pip install -r requirements.txt`
 3. Windows: `start.bat` | Linux/macOS: `chmod +x start.sh && ./start.sh`
 
@@ -130,11 +314,7 @@ SFA_Secure_File_Programm-main/
 ##  Manual install
 
 ```bash
-cd tauri-react
-npm install
-pip install -r ../requirements.txt
-cargo install tauri-cli
-npm run tauri dev
+pip install -r requirements.txt
 ```
 
 ---
@@ -142,11 +322,7 @@ npm run tauri dev
 ##  Project structure
 ```
 SFA_Secure_File_Programm-main/
-├── tauri-react/           # Main app folder
-│   ├── src/              # React frontend
-│   ├── src-tauri/        # Tauri core (Rust), configs, icons
-│   ├── python_scripts/   # Python scripts for encryption/decryption
-│   ├── package.json      # Node.js dependencies
+├── terminal_version/           # Main app folder
 │   └── ...
 ├── start.bat             # Quick launch for Windows
 ├── start.sh              # Quick launch for Linux/macOS
@@ -187,10 +363,8 @@ SFA_Secure_File_Programm-main/
 ---
 
 ## ❓ FAQ
-- **Node.js not found:** Install from https://nodejs.org/ and reboot
 - **Python not found:** Install from https://python.org/ ("Add to PATH")
 - **cryptography not installed:** `pip install cryptography`
-- **Rust not found:** `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh && cargo install tauri-cli`
 - **App won't start:** Run `start.bat` or `start.sh` — they will check dependencies for you
 
 ---
@@ -208,9 +382,11 @@ This project is intended to protect your data. Passwords cannot be recovered —
 
 ---
 
-##  Важно для пользователей Windows
+##  Important for Windows users
 
-> **Рекомендуется запускать проект через редактор кода** (например, [Cursor](https://www.cursor.so/) или [Visual Studio Code](https://code.visualstudio.com/)),
-> чтобы избежать проблем с путями и правами доступа. Если запускать не из редактора, программа может не стартовать или работать некорректно!
+> **It is recommended to run the project through a code editor** (for example, [Cursor](https://www.cursor.so/) or [Visual Studio Code](https://code.visualstudio.com/)),
+> to avoid problems with paths and access rights. If you do not run it from an editor, the program may not start or may not work correctly!
 
 ---
+message.txt
+7 KB
